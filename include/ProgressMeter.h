@@ -10,6 +10,7 @@
 #include <string>
 #include <semaphore.h>
 #include <cstdlib>
+#include <cstdint>
 
 using namespace std;
 
