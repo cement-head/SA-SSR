@@ -7,6 +7,7 @@
 
 #include "../include/Results.h"
 #include <cstdint>
+
 using namespace std;
 
 Results::Results(const uint32_t &sequence_length, unordered_set<string>* _enumerated_ssrs)
