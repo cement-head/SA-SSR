@@ -4,6 +4,7 @@
 */
 
 #include "../include/FastaSequences.h"
+#include <cstdint>
 
 using namespace std;
 
