@@ -9,6 +9,7 @@
 #include <iostream>
 #include <string>
 #include <unordered_set>
+#include <cstdint>
 #include <cstring> // strcmp
 #include <sstream> // stringstream
 #include <cstdlib> // exit
