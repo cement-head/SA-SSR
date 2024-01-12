@@ -7,6 +7,7 @@
 #include <pthread.h>
 #include "../include/FindSSRs.h"
 #include "../include/FindSSRsArgs.h"
+#include <cstdint>
 
 // using statements
 using namespace std;
