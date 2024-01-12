@@ -4,6 +4,7 @@
 */
 
 #include "../include/ProgressMeter.h"
+#include <cstdint>
 
 using namespace std;
 
