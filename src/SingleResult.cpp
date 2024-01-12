@@ -4,6 +4,7 @@
 */
 
 #include "../include/SingleResult.h"
+#include <cstdint>
 
 using namespace std;
 
