@@ -6,6 +6,7 @@
 //#define NDEBUG
 
 #include "../include/FindSSRsArgs.h"
+#include <cstdint>
 
 using namespace std;
 
