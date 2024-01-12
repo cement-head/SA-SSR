@@ -8,6 +8,7 @@
 #include <iostream>
 #include <fstream>
 #include <string>
+#include <cstdint>
 #include <sstream> // stringstream
 #include <cstdlib> // exit
 
