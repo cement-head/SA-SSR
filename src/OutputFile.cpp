@@ -4,6 +4,7 @@
 */
 
 #include "../include/OutputFile.h"
+#include <cstdint>
 
 using namespace std;
 
