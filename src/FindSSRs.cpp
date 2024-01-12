@@ -5,6 +5,7 @@
 
 #include "../include/FindSSRs.h"
 #include "../lib/sais-lite-lcp/sais.c"
+#include <cstdint>
 
 using namespace std;
 
