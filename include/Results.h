@@ -12,6 +12,7 @@
 #include <sstream>
 #include <vector>
 #include <set>
+#include <cstdint>
 #include <unordered_set>
 #include <cmath> // abs
 #include <algorithm> // min
